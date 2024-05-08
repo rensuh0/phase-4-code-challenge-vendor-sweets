@@ -1,12 +1,12 @@
-# Flask Code Challenge - Sweets Vendors
+# Phase 4 Flask Code Challenge - Sweet Vendors
 
-For this assessment, you'll be working with a vendors and sweets domain.
+For this assessment, you'll be working with a vendor and sweets domain.
 
 In this repo:
 
 - There is a Flask application with some features built out.
 - There is a fully built React frontend application.
-- There are tests included which you can run using `pytest -x`.
+- There are tests included that you can run using `pytest -x`.
 - There is a file `challenge-3-sweets.postman_collection.json` that contains a
   Postman collection of requests for testing each route you will implement.
 
@@ -28,9 +28,9 @@ Select `Upload Files`, navigate to this repo folder, and select
 ## Setup
 
 The instructions assume you changed into the `code-challenge` folder **prior**
-to opening the code editor.
+to open the code editor.
 
-To download the dependencies for the frontend and backend, run:
+To download the dependencies for the front and backend, run:
 
 ```console
 pipenv install
